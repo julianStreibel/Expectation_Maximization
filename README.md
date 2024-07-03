@@ -1,7 +1,7 @@
 # Expectation_Maximization
 
 #### What is Expectation Maximization:
- - **Simple explenation**: Expectation Maximization maximizes the likelihood of gaussians on a dataset.
+ - **Simple explenation**: Expectation Maximization maximizes the likelihood of a distribution on a dataset.
 
  - **Deeper understanding**: [The Expectation Maximization Algorithm A short tutorial](https://www.lri.fr/~sebag/COURS/EM_algorithm.pdf) gives detailed insights.
  
